@@ -1,0 +1,3 @@
+#this file it uses to figure out which dependencies to include when deploying (via pip install -r requirements.txt)
+chalice==1.0.2
+boto3==1.4.7
