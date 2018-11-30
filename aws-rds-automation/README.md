@@ -1,5 +1,5 @@
-# aws-rds-automation
-Automatic aws-rds instance start and shutdown using aws-lambda.
+# aws-rds-start-stop-automation
+Automatic aws-rds instance start and shutdown using aws-lambda & Python
 
 ### Getting Started
 This project is built using Python(v2.7) as backend. This project is implemented for demonstration purpose and tutorial of Automatic AWS RDS instance start and shutdown using AWS lambda. 
